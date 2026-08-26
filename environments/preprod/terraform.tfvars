@@ -1,13 +1,8 @@
 resourcegroup = {
   rg1 = {
-    name     = "nikrg"
+    name     = "niki-rg"
     location = "eastus"
   }
-   rg2 = {
-    name     = "dili-rg"
-    location = "eastus"
-  }
-
 }
 virtualnetwork = {
   vnet = {
